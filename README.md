@@ -1,1 +1,9 @@
-# VGD_Final_Project
+#The game is called "A Winter's Adventure." It's really original and I didn't come up with it on the spot. It's a platformer set in a cold and chilly environment, and you have to jump from one block of ice to another. The goal is to reach the end, where an ice bird awaits you. You have to avoid all other ice birds up until that point. 
+
+#standard arrow keys are used, but the up arrow is not used. The space key is used to jump. I didn't link the game because we didn't need to..? But you just open the game scene and wait for it to load. The music plays on loop and you'll know you win because the screen shows.
+
+#Does creating a new script count as a modification? I was originally going to add an obstacle and call it a day, but I decided to try my hand at making an enemy code. I relied on lots of videof about enemy patrol and assigning borders and it works like it should :) The other modification I did was changing the button used for jumping. I'm just not a fan of the arrow keys for all motion. It's like using wasd but completely ignoring the fact that the w is used to move characters forward. I think using the space button is cooler and more widely accepted as the jump button.
+
+#I'm most proud of the pixel art. I don't usually do pixel art because of how limiting it is, but it's actually really fun, and it can make you focus a lot more of character design and what elements- clothes, expressions, hair- can contribute to the theme of the game and enchance your experience. I liked making my character because I base everything of of my FAVOURITE GAME... ACE ATTORNEY... PLAY IT...
+
+#So, coding was really tough.. As you know, I'm extremely good at coding, but this one was a pain in the ASS. I cannot tell you how many forums I dug through and how many blogs written by VERY helpful genius Indian computer science students. Whatever code written in the enemy section is just me doing my best. Please do NOT fail me. Anyway. C# sucks and I would do HTML anyday.
